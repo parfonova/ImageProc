@@ -345,63 +345,63 @@
   Note: including file:     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlsimpstr.h
   Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlmem.h
   Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlcommem.h
-  Note: including file:  C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2\core/cuda.inl.hpp
-  Note: including file:   C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cuda.hpp
-  Note: including file:    C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cvdef.h
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/hal/interface.h
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/version.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/base.hpp
-  Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\algorithm
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cvstd.hpp
-  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cctype
-  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string
-  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\istream
-  Note: including file:         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ostream
-  Note: including file:          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ios
-  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocnum
-  Note: including file:            C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\streambuf
-  Note: including file:             C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xiosbase
-  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale
-  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\typeinfo
-  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_typeinfo.h
-  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
-  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo
-  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
-  Note: including file:                 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\locale.h
-  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xfacet
-  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\system_error
-  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cerrno
-  Note: including file:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\share.h
-  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/ptr.inl.hpp
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/neon_utils.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/traits.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/matx.hpp
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/saturate.hpp
-  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/fast_math.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/types.hpp
-  Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/mat.hpp
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/bufferpool.hpp
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/mat.inl.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/persistence.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/operations.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cvstd.inl.hpp
-  Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\complex
-  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ccomplex
-  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sstream
-  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xcomplex
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/utility.hpp
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core.hpp
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/core_c.h
-  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/types_c.h
-  Note: including file:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
-  Note: including file:        C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core.hpp
-  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/utility.hpp
-  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/optim.hpp
-  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core.hpp
-  Note: including file:    C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cuda_types.hpp
-  Note: including file:    C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cuda.inl.hpp
+  Note: including file:   C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2\core/cuda.inl.hpp
+  Note: including file:    C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cuda.hpp
+  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cvdef.h
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/hal/interface.h
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/version.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/base.hpp
+  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\algorithm
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cvstd.hpp
+  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cctype
+  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\string
+  Note: including file:         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\istream
+  Note: including file:          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ostream
+  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ios
+  Note: including file:            C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocnum
+  Note: including file:             C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\streambuf
+  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xiosbase
+  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale
+  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\typeinfo
+  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_typeinfo.h
+  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo
+  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+  Note: including file:                  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\locale.h
+  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xfacet
+  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\system_error
+  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cerrno
+  Note: including file:               C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\share.h
+  Note: including file:        C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/ptr.inl.hpp
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/neon_utils.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/traits.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/matx.hpp
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/saturate.hpp
+  Note: including file:        C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/fast_math.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/types.hpp
+  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/mat.hpp
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/bufferpool.hpp
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/mat.inl.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/persistence.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/operations.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cvstd.inl.hpp
+  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\complex
+  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ccomplex
+  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sstream
+  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xcomplex
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/utility.hpp
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core.hpp
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/core_c.h
+  Note: including file:        C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/types_c.h
+  Note: including file:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+  Note: including file:         C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core.hpp
+  Note: including file:        C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/utility.hpp
+  Note: including file:      C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/optim.hpp
+  Note: including file:       C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core.hpp
+  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cuda_types.hpp
+  Note: including file:     C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/core/cuda.inl.hpp
   Note: including file: C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\iostream
   Note: including file: C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv/cv.h
   Note: including file:  C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/imgproc/imgproc_c.h
@@ -428,11 +428,11 @@
   Note: including file:   C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/highgui/highgui_c.h
   Note: including file:    C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/imgcodecs/imgcodecs_c.h
   Note: including file:    C:\Users\Lena\Documents\Visual Studio 2015\opencv310\build\include\opencv2/videoio/videoio_c.h
-c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(216): warning C4101: 'meanY': unreferenced local variable
-c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(215): warning C4101: 'meanX': unreferenced local variable
-c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(218): warning C4101: 'varinaceY': unreferenced local variable
-c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(217): warning C4101: 'varianceX': unreferenced local variable
+c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(217): warning C4101: 'meanY': unreferenced local variable
+c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(216): warning C4101: 'meanX': unreferenced local variable
+c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(219): warning C4101: 'varinaceY': unreferenced local variable
+c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(218): warning C4101: 'varianceX': unreferenced local variable
 c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(30): note: see reference to function template instantiation '_Ty std::_Accumulate_unchecked<double*,_Ty,_Fn2>(_InIt,_InIt,_Ty,_Fn2 &)' being compiled
           with
@@ -448,7 +448,7 @@ c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(20): warn
               _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
               _Fn2=std::plus<void>
           ]
-  c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(241): note: see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(_InIt,_InIt,_Ty)' being compiled
+  c:\users\lena\documents\visual studio 2015\projects\imageproc\imageproc\centerdetection.cpp(242): note: see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(_InIt,_InIt,_Ty)' being compiled
           with
           [
               _Ty=int,

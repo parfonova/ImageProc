@@ -52,7 +52,7 @@ cv::Mat CenterDetection::ImageLoad(Mat image1)
 }
 
 
-void CenterDetection::Filter() 
+void CenterDetection::Filter(cv::Mat pict) 
 {
 	// TRESHOLD BINARY INV
 	//double threshold_value = 1;
@@ -61,10 +61,11 @@ void CenterDetection::Filter()
 	//cv::namedWindow (window_name_im_snap_inv, CV_WINDOW_AUTOSIZE );
 	//cv::imshow ( window_name_im_snap_inv, im_snap_inv);
 	cv::Mat blr;
-	image = imread("neu7.bmp", IMREAD_COLOR);
-	
-	cvtColor(image, image_bw, CV_RGB2GRAY);
-	image_bw = image_bw > 128;
+	//image = imread("neu7.bmp", IMREAD_COLOR);
+	image = pict;
+
+//	cvtColor(image, image_bw, CV_RGB2GRAY);
+	image_bw = image > 128;
 	cv::namedWindow("image_bw", CV_WINDOW_AUTOSIZE);
 	cv::imshow("image_bw", image_bw);
 	cvWaitKey(0);

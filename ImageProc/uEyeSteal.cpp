@@ -9,6 +9,8 @@
 #include <C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlsimpstr.h>
 #include <locale>
 #include <core/cvstd.hpp>
+#include <core/mat.hpp>
+#include <core/cuda.inl.hpp>
 //#include <imgcodecs/imgcodecs_c.h>
 
 #ifdef __WXMSW__
@@ -161,7 +163,7 @@ void Steal::OnButtonSteal()
 }
 
 
-void Steal::StealPic()
+cv::Mat Steal::StealPic()
 {
 	if (m_hCam != 0)
 	{
@@ -172,7 +174,7 @@ void Steal::StealPic()
 		if (m_bFirstTime)
 		{
 			m_bFirstTime = FALSE;
-			m_SaveFileName = "C:\\Users\\Lena\\Pictures\\neumontag4.bmp";
+			m_SaveFileName = "C:\\Users\\Lena\\Pictures\\jhkj.bmp";
 		}
 		if (m_SaveFileName != "-1")
 		{
@@ -188,7 +190,7 @@ void Steal::StealPic()
 			//ImageFileParams.nQuality = 0;
 
 			int Speichern = is_ImageFile(m_hCam, IS_IMAGE_FILE_CMD_SAVE, (void*)&ImageFileParams, sizeof(ImageFileParams));
-
+			 pic = cv::Mat (480, 752, CV_8UC1, m_pcStealImgMem);
 			
 						
 			
@@ -198,6 +200,7 @@ void Steal::StealPic()
 			}
 		}
 	}
+	return pic;
 }
 
 void Steal::OnButtonLoadParam()

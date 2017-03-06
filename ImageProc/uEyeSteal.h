@@ -7,7 +7,8 @@
 
 #include "uEye.h"
 #include "atlstr.h"
-
+#include "CenterDetection2.h"
+#include <core/cuda.inl.hpp>
 
 
 class Steal 
@@ -40,7 +41,7 @@ public:
 	char*	m_pcStealImgMem;    // camera memory - pointer to buffer
 	CString m_SaveFileName;
 	BOOL    m_bFirstTime;
-
+	cv::Mat pic;
 
 
 
@@ -66,7 +67,7 @@ public:
 	// void OnPaint();
 	// HCURSOR OnQueryDragIcon();
 	 void OnButtonExit();
-	 void StealPic();
+	 cv::Mat StealPic();
 	 void OnButtonStartLive();
 	//oid OnButtonStopLive();
 	 void OnButtonSteal();

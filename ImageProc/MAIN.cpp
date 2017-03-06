@@ -22,20 +22,19 @@ int main()
 //	Camera1.GetPictureFreeze();
 //	////imshow("fgf",Camera1.frame);
 //	Camera1.ExitCamera();
-	//
-	//Steal Steal1;
-	//Steal1.OpenCamera();
-	//Steal1.AllocateStealMemory();
-	//Steal1.OnButtonStartLive();
-	////Steal1.OnButtonSteal();
-	//Steal1.StealPic();
+	
+	Steal Steal1;
+	Steal1.OpenCamera();
+	Steal1.AllocateStealMemory();
+	Steal1.OnButtonStartLive();
+	//Steal1.OnButtonSteal();
+	cv::Mat picture = Steal1.StealPic();
 	//Steal1.OnButtonExit();
 	
 	CenterDetection CenterDetection_0Grad;
-//	CenterDetection_0Grad.ImageLoad(image);
- 	CenterDetection_0Grad.Filter();
+ 	CenterDetection_0Grad.Filter(picture);
 	CenterDetection_0Grad.findCenterMassCenter();
 	CenterDetection_0Grad.findCenterPointContours();
 	CenterDetection_0Grad.findCenterPointHist();
-
+	Steal1.OnButtonExit();
 }

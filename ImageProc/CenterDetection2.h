@@ -78,7 +78,7 @@ public:
 	map<int, int> computeHistogram(cv::Mat& image);
 	void printHistogram(const map<int, int>& histogram);
 
-	void Filter();
+	void Filter(cv::Mat pict);
 };
 
 #endif //CENTERDETECTION2_H
